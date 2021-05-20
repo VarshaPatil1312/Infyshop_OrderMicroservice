@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: orderms:3038ee709b78f8b043735c329b5213cdd94e1cc8
-    HOST: orderms:sonarcloud.io
-    Organization: orderms:varshapatil1312
-    Project: orderms:com.example:Infyshop_OrderMS
+    LOGIN: orderms:sonartoken
+    HOST: orderms:host
+    Organization: orderms:organization
+    Project: orderms:projectkey
 
 phases:
   install:
