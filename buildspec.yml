@@ -5,7 +5,7 @@ env:
     LOGIN: orderms:sonartoken
     HOST: orderms:host
     Organization: orderms:organization
-    Project: orderms:projectKey
+    Project: orderms:projectkey
 
 phases:
   install:
